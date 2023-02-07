@@ -17,6 +17,4 @@ export default {
   <Recap_01_02_2023 v-else />
 </template>
 
-<style scoped>
-
-</style>
+<style scoped></style>

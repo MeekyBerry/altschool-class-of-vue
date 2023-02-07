@@ -13,12 +13,10 @@ import ColorPicker from "../composables/ColorPicker";
 
 export default {
   setup() {
-    const { colors, message, matchColor } = ColorPicker();
+    const{ colors, message, matchColor } = ColorPicker();
     return { colors, message, matchColor };
   },
 };
 </script>
 
-<style>
-
-</style>
+<style></style>
